@@ -23,5 +23,8 @@
                 "https://tw.news.yahoo.com/"
             ]
         }
+    ],
+    "permissions": [
+        "storage"
     ]
 }
